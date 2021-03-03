@@ -1,2 +1,0 @@
-# areyes
-Dev Quiz
